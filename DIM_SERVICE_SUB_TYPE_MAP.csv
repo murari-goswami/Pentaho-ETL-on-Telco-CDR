@@ -1,0 +1,165 @@
+SERVICE_SUB_TYPE,SERVICE_SUB_TYPE_DESCRIPTION
+VDO,O2 Video
+SMT,SMS-MT
+RNG,O2 Ringtones
+GME,O2 Games
+CRD,O2 Photocard
+MMO,MMS MO
+MMN,MMS MO
+DAT8,DATA over GPRS from Ireland
+DAT5,DATA over GPRS from Ireland
+DAT3,DATA over GPRS from ROW
+DAT2,DOWNLOAD over GPRS in UK
+DAT1,DATA over GPRS in UK
+VM,Voicemail
+OTHR,Non discounted calls
+VVMF,iPhone System SMS
+SMSR,UK SMS from Ireland
+SMSP,Premium SMS-MO
+SMS7,Roaming SMS from Europe
+SMS6,UK SMS to OFFNET
+SMS5,UK SMS to ONNET
+SMS4,UK SMS to non UK number
+SMS3,Roaming SMS
+SMS1,SMS
+SMEU,Roaming SMS from Europe
+SMES,Roaming SMS from SPAIN
+SPAD,Roaming from Spain
+CAMG,Roaming MT Call from Europe
+CAMC,Roaming MT Call from Ireland
+CAMB,Roaming Call
+ZOXX,International Group X Mobile
+ZOWW,International Group W Mobile
+ZOVV,International Group V Mobile
+ZOSS,International Group S Mobile
+ZORR,International Group R Mobile
+ZOQQ,International Group Q Mobile
+ZOPP,International Group P Mobile
+ZOOO,International Group O Mobile
+ZONX,International Group X Landline
+ZONW,International Group W Landline
+ZONV,International Group V Landline
+ZONU,International Group U
+ZONT,International Group T
+ZONS,International Group S Landline
+ZONR,International Group R Landline
+ZONQ,International Group Q Landline
+ZONP,International Group P Landline
+ZONO,International Group O Landline
+ZONL,INTL East Timor Landline
+ZONK,International Group K Landline
+ZONJ,International Group J Landline
+ZONI,International Group I Landline
+ZONH,International Group H Landline
+ZONG,International Group G Landline
+ZONF,International Group F Landline
+ZONE,International Group E Landline
+ZOND,International Group D Landline
+ZONC,International Group C Landline
+ZONB,International Group B Landline
+ZONA,International Group A Landline
+ZOLL,INTL East Timor Mobile
+ZOKK,International Group K Mobile
+ZOJJ,International Group J Mobile
+ZOII,International Group I Mobile
+ZOHH,International Group H Mobile
+ZOGG,International Group G Mobile
+ZOFF,International Group F Mobile
+ZOEE,International Group E Mobile
+ZODD,International Group D Mobile
+ZOCC,International Group C Mobile
+ZOBB,International Group B Mobile
+ZOAA,International Group A Mobile
+WAP1,WAP over GSM
+VUK,Video calls in the UK
+VRMT,Video call received abroad
+VRMO,Video calls made abroad
+VINT,International Video Call
+VDEO,O2 Video
+SPAC,Roaming from Spain
+SPAB,Roaming from Spain
+SPAA,Roaming from Spain
+SMST,SMS-MT
+RING,O2 Ringtones
+ONTO,Onnet Call
+ONTH,Onnet Call
+ONOO,Onnet Call
+ONOH,Onnet Call
+ONE1,Priced per call & no discounts
+OFFO,Offnet Call
+OFFH,Offnet Call
+NATO,UK Landline
+NATH,UK Landline
+NAT2,Other Landline calls
+NAOO,UK Landline
+NAOH,UK Landline
+MMT,MMS MT
+MMST,MMS MT
+JA28,JAJAH SOCIAL NETWORK
+JA26,JAJAH SOCIAL NETWORK
+JA24,JAJAH SOCIAL NETWORK
+JA22,JAJAH SOCIAL NETWORK
+JA20,JAJAH SOCIAL NETWORK
+JA18,JAJAH SOCIAL NETWORK
+JA16,JAJAH SOCIAL NETWORK
+JA14,JAJAH SOCIAL NETWORK
+JA12,JAJAH Landline
+JA10,JAJAH Landline
+JA08,JAJAH Landline
+JA06,JAJAH Landline
+JA04,JAJAH Landline
+JA02,JAJAH Landline
+IREN,Roaming Call from Ireland
+IREM,Roaming from Ireland
+IREL,Roaming from Ireland
+IREK,Roaming from Ireland
+IREJ,Roaming from Ireland
+IREI,Roaming from Ireland
+IREH,Roaming from Ireland
+IREG,Roaming from Ireland
+IREF,Roaming from Ireland
+IREE,Roaming from Ireland
+IRED,Roaming from Ireland
+IREC,Roaming from Ireland
+IREB,Roaming from Ireland
+IREA,Roaming Call from Ireland
+ICCE,O2 Intl Calling Card Call
+ICCD,O2 Intl Calling Card Care Call
+ICCB,O2 Intl Calling Card Roaming
+ICCA,O2 Intl Calling Card Call
+GAME,O2 Games
+EURC,Roaming Call from Europe
+EURB,Roaming Call from Europe
+EURA,Roaming Call from Europe
+CARD,O2 Photocard
+CAMR,Roaming Call to Non Europe
+CAMQ,Roaming Call
+CAMM,Roaming Call
+CAMH,Roaming Call to CS WAP
+CAMF,Roaming Call to Europe
+CAME,Roaming Call to Non Europe
+CAMD,Roaming Call to Care
+CAMA,Roaming Call
+ZOYY,International Group Y Mobile
+ZONY,International Group Y Land
+O2IN,O2Unlimted calls Redirect discount
+O2IS,O2Unlimited SMS Redirect discount
+D2B,Direct to Bill Debit
+DAT4,DATA over GPRS from ROW
+DAT6,GPRS DATA in Euro with TRVO
+DAT7,GPRS DATA in IREL with TRVO
+IID,Non discounted calls
+ZXAA,International Group XA Mobile
+ZXBB,International Group XB Mobile
+ZXDD,International Group XD Mobile
+ZXFF,International Group XF Mobile
+ZXGG,International Group XG Mobile
+ZXHH,International Group XH Mobile
+ZXJJ,International Group XJ Mobile
+ZXNA,International Group XA Landline
+ZXNB,International Group XB Landline
+ZXNF,International Group XF Landline
+ZXNG,International Group XG Landline
+ZXNH,International Group XH Landline
+ZXNJ,International Group XJ Landline
+ZXND,International Group XD Landline

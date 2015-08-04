@@ -1,0 +1,51 @@
+BOLTON_ID,BOLTON_NAME,BOLTON_NAME_DESCRIPTION,RECURRING_INDICATOR
+9947,MOREO2MINS,#1 for an extra 100 minutes of UK O2 to O2 calls to use until midnight,PERIODIC
+9948,MOREMINS,#1 for an extra 50 minutes of UK landline & mobile calls to use until midnight,PERIODIC
+9147,P-UKDATAANYTIMELIM025,Pontis - Micro Bolt On - 500MB Free UK data  to use anytime - #1 - 14 days offer,ONEOFF
+9167,P-UKDATAANYTIMELIM026,Pontis - Micro Bolt On - 500MB Free UK data  to use anytime - #2 - 14 days offer,ONEOFF
+9187,P-UKDATAANYTIMELIM027,Pontis - Micro Bolt On - 500MB Free UK data  to use anytime - #3 - 14 days offer,ONEOFF
+9207,P-UKDATAANYTIMELIM028,DO NOT USE - Pontis - Micro Bolt On - 1GB Free UK data  to use anytime - #3 - 14 days offer,ONEOFF
+9227,P-UKMINSANYLIM029,Pontis - Micro Bolt On - 300 Free UK minutes to any network  to use anytime  - #2 - 7 days offer,ONEOFF
+9228,P-UKMINSANYLIM030,Pontis - Micro Bolt On - 300 Free UK minutes to any network  to use anytime  - #3 - 7 days offer,ONEOFF
+9229,P-ONNETMINSANYLIM031,DO NOT USE - Pontis - Micro Bolt On - 1000 ONNET UK minutes to use anytime  - #2 - 14 days offer,ONEOFF
+9247,P-UKMINSANYLIM032,Pontis - Micro Bolt On - 100 Free UK minutes to any network  to use anytime  - #3 - 14 days offer,ONEOFF
+9248,P-UKMINSANYLIM033,Pontis - Micro Bolt On - 100 Free UK minutes to any network  to use anytime  - #4 - 14 days offer,ONEOFF
+9249,P-UKSMSANYLIM034,DO NOT USE - Pontis - Micro Bolt On - 1000 UK SMS to use anytime  - #3 - 7 days offer,ONEOFF
+9250,P-UKOFFNETMINSANYLIM035,Pontis - Micro Bolt On - 300 Free UK minutes to any off-net mobile network  to use anytime  - #3 - 7 days offer,ONEOFF
+9251,P-UKOFFNETMINSANYLIM036,Pontis - Micro Bolt On - 100 Free UK minutes to any off-net mobile network  to use anytime  - #3 - 14 days offer,ONEOFF
+10067,P-POLAND,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Poland,ONEOFF
+10347,RET100MINSONEOFF,#1 for an extra 100 minutes of UK O2 to O2 calls to use until midnight,ONEOFF
+10087,P-BANGLADESH,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Bangladesh,ONEOFF
+10088,P-ROMANIA,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Romania,ONEOFF
+10107,P-INDIA,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to India,ONEOFF
+10108,P-LITHUANIA,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Lithuania,ONEOFF
+10109,P-HUNGARY,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Hungary,ONEOFF
+10110,P-IRELAND,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Ireland,ONEOFF
+10111,P-PAKISTAN,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Pakistan,ONEOFF
+10112,P-PORTUGAL,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Portugal,ONEOFF
+10113,P-BULGARIA,DO NOT USE - Pontis - Free minutes (capped) to use anytime for calls from the UK to Bulgaria,ONEOFF
+10127,P-UKSMSANYTIMELIM047,DO NOT USE - Pontis - Free UK SMS (capped) to use anytime,ONEOFF
+10128,P-UKDATAANYTIMELIM048,DO NOT USE - Pontis - Free UK data (capped) to use anytime,ONEOFF
+10129,P-UKMINSANYTIMELIM049,DO NOT USE - Pontis - Free UK minutes to any network (capped) to use anytime,ONEOFF
+10147,P-UKONNETMINANYTIMELIM050,DO NOT USE - Pontis - Free on-net minutes (capped) to use anytime,ONEOFF
+10367,RET100MINSMONTHLY,#1 for an extra 50 minutes of UK landline AND mobile calls to use until midnight,ONEOFF
+10387,RET3000TEXTONEOFF,#1 for an extra 100 minutes of UK O2 to O2 calls to use until midnight,ONEOFF
+10407,RET3000TEXTMONTHLY,#1 for an extra 100 minutes of UK O2 to O2 calls to use until midnight,ONEOFF
+10408,RET500MBONEOFF,#1 for an extra 100 minutes of UK O2 to O2 calls to use until midnight,ONEOFF
+10427,RET500MBMONTHLY,#1 for an extra 100 minutes of UK O2 to O2 calls to use until midnight,ONEOFF
+8147,PONTIS - ANYCALLANYTIMEMONEY001,Pontis - Virtual money for any family type to use anytime,ONEOFF
+8148,PONTIS - ONNETMINSANYTIMEMONEY002,Pontis - Virtual money for on-net calls to use anytime,ONEOFF
+8149,PONTIS - ONNETMINSANYTIMECAP003,Pontis - Free on-net minutes (capped) to use anytime,ONEOFF
+8150,PONTIS - ONNETMINSWKDCAP004,Pontis - Free on-net minutes (capped) to use at the weekend,ONEOFF
+8151,PONTIS - ONNETMINSFRIUNL005,Pontis - Unlimited free on-net minutes to use on a Friday,ONEOFF
+8152,PONTIS - ONNETSMSWKD50PCUNL006,Pontis - Unlimited 50% off on-net SMS to use at the weekend,ONEOFF
+8153,PONTIS - UKDATAANYTIMEUNL007,Pontis - Unlimited free UK data to use anytime,ONEOFF
+8227,PONTIS - INTLMINSWKD50PCUNL008,Pontis - Unlimited 50% off international calls to use at the weekend,ONEOFF
+8228,PONTIS - UKDATAWEDEVEUNL009,Pontis - Unlimited free UK data to use between 5pm and midnight on Wednesdays,ONEOFF
+8229,PONTIS - UKDATASATEVEUNL010,Pontis - Unlimited free UK data to use between 5pm and midnight on Saturdays,ONEOFF
+8267,P-INTLMINSANYTIMELIM011,Pontis - Free international minutes (capped) to use anytime,ONEOFF
+8269,P-INTLMINSWKDLIM012,Pontis - Free international minutes (capped) to use at the weekend,ONEOFF
+8271,P-INTLMINSOFFPEAKLIM013,Pontis - Free international minutes (capped) to use off-peak,ONEOFF
+8627,P-INTLSMSANYTILIM022,Pontis - Free International SMS (capped) to use anytime for SMS sent from the UK to international numbers,ONEOFF
+8647,P-UKSMSANYTIVIR023,Pontis - Virtual money for UK SMS,ONEOFF
+8648,P-UKMINSWKNDLIM024,Pontis - Free UK minutes to any network (capped) to use at the weekend,ONEOFF
